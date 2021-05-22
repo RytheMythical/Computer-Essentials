@@ -1,0 +1,75 @@
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.exe.config
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.pdb
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\NAudio.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\System.Buffers.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\System.Memory.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\MainWindow.g.cs
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\App.g.cs
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat_MarkupCompile.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat_MarkupCompile.lref
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\App.baml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\MainWindow.baml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.g.resources
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice_Chat.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\NAudio.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Buffers.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Memory.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\MainWindow.g.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\App.g.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat_MarkupCompile.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat_MarkupCompile.lref
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\App.baml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\MainWindow.baml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.g.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice_Chat.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.CopyComplete
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\Voice Chat.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\NAudio.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Buffers.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Memory.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\MainWindow.g.cs
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\App.g.cs
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat_MarkupCompile.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat_MarkupCompile.lref
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\App.baml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\MainWindow.baml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.g.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice_Chat.Properties.Resources.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.GenerateResource.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.Fody.CopyLocal.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.csproj.CopyComplete
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Voice Chat\obj\Debug\Voice Chat.pdb

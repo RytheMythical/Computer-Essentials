@@ -1,0 +1,51 @@
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.exe.config
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.exe
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.pdb
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario_Announcer_Loader.Form1.resources
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario_Announcer_Loader.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.exe
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario_Announcer_Loader.Form1.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario_Announcer_Loader.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Adobe Manual Installation API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\APIs.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Base64 API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Coronavirus API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Costura.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\GitHUB API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\GitHub Database Downloader API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\GitHub-Large-Uploader API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\HTML Download API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Jackson Download Manager API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Teach Assist.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\UsefulTools.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\WinRAR API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Costura.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.CopyComplete
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Debug\Ontario Announcer Loader.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario_Announcer_Loader.Form1.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario_Announcer_Loader.Properties.Resources.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.GenerateResource.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.csproj.Fody.CopyLocal.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Debug\Ontario Announcer Loader.pdb

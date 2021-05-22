@@ -1,0 +1,21 @@
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\bin\Debug\GitLab Desktop.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\bin\Debug\GitLab Desktop.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\bin\Debug\GitLab Desktop.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\App.g.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop_MarkupCompile.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop_MarkupCompile.lref
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\MainWindow.baml
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.g.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab_Desktop.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.csproj.CopyComplete
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\GitLab Desktop.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\obj\Debug\App.baml
+C:\Users\cntow\Documents\GitLab\computer-essentials\GitLab Desktop\GitLab Desktop\bin\Debug\Microsoft.Owin.Security.OAuth.xml

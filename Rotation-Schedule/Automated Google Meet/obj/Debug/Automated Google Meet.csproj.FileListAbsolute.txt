@@ -1,0 +1,30 @@
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\bin\Debug\Automated Google Meet.exe.config
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\bin\Debug\Automated Google Meet.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\bin\Debug\Automated Google Meet.pdb
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.dll
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.Support.dll
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.Support.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated_Google_Meet.Form1.resources
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated_Google_Meet.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\bin\Debug\Automated Google Meet.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\bin\Debug\Automated Google Meet.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\bin\Debug\Automated Google Meet.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.dll
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.Support.dll
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\bin\Debug\WebDriver.Support.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated_Google_Meet.Form1.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated_Google_Meet.Properties.Resources.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csproj.GenerateResource.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.csproj.CopyComplete
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Automated Google Meet\obj\Debug\Automated Google Meet.pdb

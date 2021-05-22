@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ActiveCases" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActiveCases.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ActiveCasesOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActiveCasesOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ActiveCasesSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActiveCasesSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="B117Cases" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B117Cases.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="B117CasesOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B117CasesOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="B1351" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B1351.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="B1351Old" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B1351Old.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusCases" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusCases.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusCasesOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusCasesOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusCasesSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusCasesSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusDeaths" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusDeaths.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusDeathsOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusDeathsOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusDeathsSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusDeathsSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusRecovered" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusRecovered.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusRecoveredOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusRecoveredOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusRecoveredSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusRecoveredSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusVaccine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusVaccine.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusVaccineOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusVaccineOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoronavirusVaccineSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoronavirusVaccineSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CriticalCases" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CriticalCases.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CriticalCasesOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CriticalCasesOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CriticalCasesSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CriticalCasesSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CurrentDie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CurrentDie.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="EstimatedOntarioCasesTomorrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EstimatedOntarioCasesTomorrow.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="EstimatedOntarioCasesTomorrowOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EstimatedOntarioCasesTomorrowOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="EstimatedOntarioCasesTomorrowSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EstimatedOntarioCasesTomorrowSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ICUOntario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ICUOntario.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ICUOntarioOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ICUOntarioOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MarkvilleSchoolCOVID" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MarkvilleSchoolCOVID.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MSSClosed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MSSClosed.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MSSOpened" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MSSOpened.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OneBillionDate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OneBillionDate.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OneBillionDateOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OneBillionDateOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OneHundredMillionDate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OneHundredMillionDate.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OneHundredMillionDateOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OneHundredMillionDateOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioGreenZone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioGreenZone.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioHospital" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioHospital.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioHospitalOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioHospitalOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioLockDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioLockDown.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioNewCases" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioNewCases.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioNewCasesOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioNewCasesOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioNewCasesSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioNewCasesSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioNewDeaths" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioNewDeaths.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioNewDeathsOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioNewDeathsOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioNewDeathsSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioNewDeathsSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioOrangeZone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioOrangeZone.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioP1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioP1Old" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioP1Old.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioPositiveRate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioPositiveRate.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioPositiveRateOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioPositiveRateOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioRecovered" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioRecovered.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioRecoveredOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioRecoveredOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioRedZone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioRedZone.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioTestingWaiting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioTestingWaiting.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioTestingWaitingOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioTestingWaitingOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioTotalDeaths" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioTotalDeaths.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioTotalDeathsOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioTotalDeathsOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioTotalDeathsSP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioTotalDeathsSP.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioYesterdayTested" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioYesterdayTested.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OntarioYesterdayTestedOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OntarioYesterdayTestedOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RecoveredOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RecoveredOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SevenDay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SevenDay.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SevenDayOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SevenDayOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="YellowZone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\YellowZone.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_200MillionEstimate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\200MillionEstimate.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_200MillionEstimateOld" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\200MillionEstimateOld.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

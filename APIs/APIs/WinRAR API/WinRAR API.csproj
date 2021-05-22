@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>WinRAR_API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Base64 API">
+      <HintPath>..\..\..\DLL\API's\Base64 API.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub-Large-Uploader API">
+      <HintPath>..\..\..\DLL\API's\GitHub-Large-Uploader API.dll</HintPath>
+    </Reference>
+    <Reference Include="HTML Download API">
+      <HintPath>..\..\..\DLL\API's\HTML Download API.dll</HintPath>
+    </Reference>
+    <Reference Include="Jackson Download Manager API">
+      <HintPath>..\..\..\DLL\API's\Jackson Download Manager API.dll</HintPath>
+    </Reference>
+    <Reference Include="Ontario Color Coded Restrictions API">
+      <HintPath>..\..\..\DLL\API's\Ontario Color Coded Restrictions API.dll</HintPath>
+    </Reference>
+    <Reference Include="Ontario Coronavirus API">
+      <HintPath>..\..\..\DLL\API's\Ontario Coronavirus API.dll</HintPath>
+    </Reference>
+    <Reference Include="UsefulTools">
+      <HintPath>..\..\..\DLL\API's\UsefulTools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

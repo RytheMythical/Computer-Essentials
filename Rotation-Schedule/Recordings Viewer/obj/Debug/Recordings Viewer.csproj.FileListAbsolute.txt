@@ -1,0 +1,57 @@
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.exe.config
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.pdb
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\MainWindow.g.cs
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\App.g.cs
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer_MarkupCompile.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer_MarkupCompile.lref
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\App.baml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\MainWindow.baml
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.g.resources
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings_Viewer.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.pdb
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\MainWindow.g.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\App.g.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer_MarkupCompile.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer_MarkupCompile.lref
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\App.baml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\MainWindow.baml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.g.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings_Viewer.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.CopyComplete
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\Recordings Viewer.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\MainWindow.g.cs
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\App.g.cs
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer_MarkupCompile.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer_MarkupCompile.lref
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\App.baml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\MainWindow.baml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.g.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings_Viewer.Properties.Resources.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.GenerateResource.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.Fody.CopyLocal.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.csproj.CopyComplete
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Recordings Viewer\obj\Debug\Recordings Viewer.pdb

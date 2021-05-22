@@ -1,0 +1,9 @@
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\bin\Debug\netstandard2.0\UsefulTools.deps.json
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\bin\Debug\netstandard2.0\UsefulTools.dll
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\bin\Debug\netstandard2.0\UsefulTools.pdb
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\obj\Debug\netstandard2.0\UsefulTools.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\obj\Debug\netstandard2.0\UsefulTools.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\obj\Debug\netstandard2.0\UsefulTools.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\obj\Debug\netstandard2.0\UsefulTools.dll
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\obj\Debug\netstandard2.0\UsefulTools.pdb
+C:\Users\cntow\Documents\GitHub\UsefulTools\UsefulTools\obj\Debug\netstandard2.0\UsefulTools.csproj.CoreCompileInputs.cache

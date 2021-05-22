@@ -1,0 +1,16 @@
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\bin\Release\netstandard2.0\Ontario Coronavirus API.deps.json
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\bin\Release\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\bin\Release\netstandard2.0\Ontario Coronavirus API.pdb
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\bin\Release\netstandard2.0\Ontario Coronavirus API.deps.json
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\bin\Release\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\bin\Release\netstandard2.0\Ontario Coronavirus API.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Coronavirus API\obj\Release\netstandard2.0\Ontario Coronavirus API.pdb

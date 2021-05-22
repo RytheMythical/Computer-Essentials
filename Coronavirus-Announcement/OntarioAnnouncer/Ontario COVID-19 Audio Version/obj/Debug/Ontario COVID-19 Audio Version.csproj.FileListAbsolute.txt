@@ -1,0 +1,40 @@
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Ontario COVID-19 Audio Version.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Ontario COVID-19 Audio Version.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Ontario COVID-19 Audio Version.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\NAudio.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\System.Security.AccessControl.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario_COVID_19_Audio_Version.Audio_Creator.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario_COVID_19_Audio_Version.Form1.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario_COVID_19_Audio_Version.Properties.Resources.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.GenerateResource.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.Fody.CopyLocal.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.CopyComplete
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Ontario COVID-19 Audio Version.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Ontario COVID-19 Audio Version.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Ontario COVID-19 Audio Version.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\NAudio.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\System.Security.AccessControl.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario_COVID_19_Audio_Version.Audio_Creator.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario_COVID_19_Audio_Version.Form1.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario_COVID_19_Audio_Version.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.csproj.CopyComplete
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Ontario COVID-19 Audio Version\obj\Debug\Ontario COVID-19 Audio Version.pdb

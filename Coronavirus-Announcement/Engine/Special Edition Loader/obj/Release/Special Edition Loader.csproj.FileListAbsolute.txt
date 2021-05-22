@@ -1,0 +1,9 @@
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Release\Special Edition Loader.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Release\Special Edition Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Release\Special Edition Loader.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Release\Special_Edition_Loader.Form1.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Release\Special_Edition_Loader.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Release\Special Edition Loader.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Release\Special Edition Loader.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Release\Special Edition Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Release\Special Edition Loader.pdb

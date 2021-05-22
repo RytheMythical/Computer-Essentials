@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2Zp4x83kWcDSzujD7IxDDxf3zR8u127edcHXCxrefjQXhFSty/fYjntKDY4+eCipkyqKp70602fhAdCPh+ipQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cntow\\Documents\\GitLab\\computer-essentials\\APIs\\APIs\\WinRAR API\\WinRAR API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cntow\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cntow\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

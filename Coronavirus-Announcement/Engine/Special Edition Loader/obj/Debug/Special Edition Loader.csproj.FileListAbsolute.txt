@@ -1,0 +1,30 @@
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.exe.config
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.exe
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.pdb
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special_Edition_Loader.Form1.resources
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special_Edition_Loader.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.exe
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special_Edition_Loader.Form1.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special_Edition_Loader.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\bin\Debug\Special Edition Loader.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special_Edition_Loader.Form1.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special_Edition_Loader.Properties.Resources.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csproj.GenerateResource.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Special Edition Loader\obj\Debug\Special Edition Loader.pdb

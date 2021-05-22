@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{409CBD34-6FAB-4D44-8E0F-91EBBF518A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OntarioCaseGetter", "OntarioCaseGetter\OntarioCaseGetter.csproj", "{1E2527A0-0EBA-4982-A3C4-7978B8A9E816}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ontario Coronavirus API", "Ontario Coronavirus API\Ontario Coronavirus API.csproj", "{62E892C3-8859-4772-BEB4-6C1034D97FBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ontario Color Coded Restrictions API", "Ontario Color Coded Restrictions API\Ontario Color Coded Restrictions API.csproj", "{015A8760-E7CE-4610-9764-A9715DBC6455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OntarioRegionReporter", "OntarioRegionReporter\OntarioRegionReporter.csproj", "{FA7FB65B-10D1-48AC-8530-DFFE0734F09C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coronavirus API", "Coronavirus API\Coronavirus API.csproj", "{29124759-25C8-4EA1-847D-60676217067A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ontario API Testing", "Ontario API Testing\Ontario API Testing.csproj", "{2AC1000C-9CBA-4317-9F0D-815D8429026F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special Edition Loader", "Special Edition Loader\Special Edition Loader.csproj", "{F608A590-05BE-429C-B983-7B4AFA8CE012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ontario Announcer Loader", "Ontario Announcer Loader\Ontario Announcer Loader.csproj", "{29576C10-4FD6-4CC3-957D-ECAF83F89D0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{303219ED-2235-495E-8417-02D66B90D2E3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School COVID API", "School COVID API\School COVID API.csproj", "{E864E54F-486A-4E3D-B5FB-3DA31050F636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409CBD34-6FAB-4D44-8E0F-91EBBF518A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409CBD34-6FAB-4D44-8E0F-91EBBF518A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409CBD34-6FAB-4D44-8E0F-91EBBF518A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409CBD34-6FAB-4D44-8E0F-91EBBF518A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2527A0-0EBA-4982-A3C4-7978B8A9E816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2527A0-0EBA-4982-A3C4-7978B8A9E816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2527A0-0EBA-4982-A3C4-7978B8A9E816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2527A0-0EBA-4982-A3C4-7978B8A9E816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E892C3-8859-4772-BEB4-6C1034D97FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E892C3-8859-4772-BEB4-6C1034D97FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E892C3-8859-4772-BEB4-6C1034D97FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E892C3-8859-4772-BEB4-6C1034D97FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015A8760-E7CE-4610-9764-A9715DBC6455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015A8760-E7CE-4610-9764-A9715DBC6455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015A8760-E7CE-4610-9764-A9715DBC6455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015A8760-E7CE-4610-9764-A9715DBC6455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7FB65B-10D1-48AC-8530-DFFE0734F09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7FB65B-10D1-48AC-8530-DFFE0734F09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7FB65B-10D1-48AC-8530-DFFE0734F09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7FB65B-10D1-48AC-8530-DFFE0734F09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29124759-25C8-4EA1-847D-60676217067A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29124759-25C8-4EA1-847D-60676217067A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29124759-25C8-4EA1-847D-60676217067A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29124759-25C8-4EA1-847D-60676217067A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC1000C-9CBA-4317-9F0D-815D8429026F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC1000C-9CBA-4317-9F0D-815D8429026F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC1000C-9CBA-4317-9F0D-815D8429026F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC1000C-9CBA-4317-9F0D-815D8429026F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F608A590-05BE-429C-B983-7B4AFA8CE012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F608A590-05BE-429C-B983-7B4AFA8CE012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F608A590-05BE-429C-B983-7B4AFA8CE012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F608A590-05BE-429C-B983-7B4AFA8CE012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29576C10-4FD6-4CC3-957D-ECAF83F89D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29576C10-4FD6-4CC3-957D-ECAF83F89D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29576C10-4FD6-4CC3-957D-ECAF83F89D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29576C10-4FD6-4CC3-957D-ECAF83F89D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E864E54F-486A-4E3D-B5FB-3DA31050F636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E864E54F-486A-4E3D-B5FB-3DA31050F636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E864E54F-486A-4E3D-B5FB-3DA31050F636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E864E54F-486A-4E3D-B5FB-3DA31050F636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {704D4E88-122C-424D-9C03-17EBACC27D0C}
+	EndGlobalSection
+EndGlobal

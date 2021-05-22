@@ -1,0 +1,10 @@
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\bin\Debug\Fan Spinner.exe.config
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\bin\Debug\Fan Spinner.exe
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\bin\Debug\Fan Spinner.pdb
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\obj\Debug\Fan Spinner.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\obj\Debug\Fan_Spinner.Form1.resources
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\obj\Debug\Fan_Spinner.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\obj\Debug\Fan Spinner.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\obj\Debug\Fan Spinner.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\obj\Debug\Fan Spinner.exe
+C:\Users\cntow\Documents\GitHub\Fan-Spinner\Fan Spinner\Fan Spinner\obj\Debug\Fan Spinner.pdb

@@ -1,0 +1,34 @@
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\WinRAR API.deps.json
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\WinRAR API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\WinRAR API.pdb
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Base64 API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\GitHub-Large-Uploader API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Jackson Download Manager API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\UsefulTools.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.pdb
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\WinRAR API.deps.json
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\WinRAR API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\WinRAR API.pdb
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Base64 API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\GitHub-Large-Uploader API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Jackson Download Manager API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\bin\Debug\netstandard2.0\UsefulTools.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.csprojAssemblyReference.cache
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.AssemblyInfoInputs.cache
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.AssemblyInfo.cs
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.csproj.CoreCompileInputs.cache
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.csproj.CopyComplete
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\WinRAR API\obj\Debug\netstandard2.0\WinRAR API.pdb

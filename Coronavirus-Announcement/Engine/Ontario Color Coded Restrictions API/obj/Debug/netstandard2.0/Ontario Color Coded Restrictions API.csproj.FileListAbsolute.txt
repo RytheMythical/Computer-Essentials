@@ -1,0 +1,55 @@
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.deps.json
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csprojAssemblyReference.cache
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfoInputs.cache
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfo.cs
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CoreCompileInputs.cache
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CopyComplete
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\HA\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.deps.json
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitHub\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.deps.json
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CopyComplete
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.deps.json
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfoInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfo.cs
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CopyComplete
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.deps.json
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitHub\computer-essentials\Coronavirus-Announcement\Engine\Ontario Color Coded Restrictions API\obj\Debug\netstandard2.0\Ontario Color Coded Restrictions API.pdb

@@ -1,0 +1,10 @@
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Release\Ontario Announcer Loader.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Release\Ontario Announcer Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\bin\Release\Ontario Announcer Loader.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Release\Ontario_Announcer_Loader.Form1.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Release\Ontario_Announcer_Loader.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Release\Ontario Announcer Loader.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Release\Ontario Announcer Loader.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Release\Ontario Announcer Loader.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Release\Ontario Announcer Loader.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario Announcer Loader\obj\Release\Ontario Announcer Loader.pdb

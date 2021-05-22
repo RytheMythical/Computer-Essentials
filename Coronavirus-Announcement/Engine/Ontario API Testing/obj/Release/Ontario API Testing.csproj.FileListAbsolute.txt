@@ -1,0 +1,10 @@
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\bin\Release\Ontario API Testing.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\bin\Release\Ontario API Testing.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\bin\Release\Ontario API Testing.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\bin\Release\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\bin\Release\Ontario Coronavirus API.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\obj\Release\Ontario API Testing.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\obj\Release\Ontario API Testing.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\obj\Release\Ontario API Testing.csproj.CopyComplete
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\obj\Release\Ontario API Testing.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\Engine\Ontario API Testing\obj\Release\Ontario API Testing.pdb

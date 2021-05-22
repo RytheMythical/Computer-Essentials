@@ -1,0 +1,14 @@
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\bin\Debug\Automated Ontario Reporter.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\bin\Debug\Automated Ontario Reporter.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\bin\Debug\Automated Ontario Reporter.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\bin\Debug\Automated Ontario Reporter.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\bin\Debug\Automated Ontario Reporter.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\bin\Debug\Automated Ontario Reporter.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Coronavirus-Announcement\OntarioAnnouncer\Automated Ontario Reporter\obj\Debug\Automated Ontario Reporter.pdb

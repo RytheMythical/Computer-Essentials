@@ -1,0 +1,32 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GitLab_Desktop"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="GitLab_Desktop.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="662.125" Width="1094.278" ResizeMode="CanMinimize">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid x:Name="LoginGrid" HorizontalAlignment="Left" Height="197" Margin="240,149,0,0" VerticalAlignment="Top" Width="606" Background="#FFE2D5D5" d:IsHidden="True">
+            <TextBox x:Name="PersonalAccessTokenTextBox" HorizontalAlignment="Left" Height="35" Margin="10,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="586"/>
+            <Label Content="Personal Access Token:" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top"/>
+            <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" Margin="223,149,0,0" VerticalAlignment="Top" Width="124" Click="LoginButton_Click"/>
+            <Label Content="Login To GitLab" HorizontalAlignment="Left" Margin="184,0,0,0" VerticalAlignment="Top" FontSize="30"/>
+        </Grid>
+        <materialDesign:Snackbar x:Name="UniversalSnackBar" HorizontalAlignment="Left" Height="180" Margin="0,453,-1,0" VerticalAlignment="Top" Width="1089" d:IsLocked="True"/>
+        <Grid x:Name="RepositoriesGrid" HorizontalAlignment="Left" Height="613" Margin="10,10,0,0" VerticalAlignment="Top" Width="1068">
+            <ListBox x:Name="LocalRepositoriesList" HorizontalAlignment="Left" Height="237" Margin="10,49,0,0" VerticalAlignment="Top" Width="422" Background="#FFD8F5DC"/>
+            <Label Content="Repositories on this device" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Elephant"/>
+            <ListBox x:Name="CloudRepositoriesListBox" HorizontalAlignment="Left" Height="232" Margin="578,54,0,0" VerticalAlignment="Top" Width="363" Background="#FFA5DAD3"/>
+            <Label Content="Repositories on the cloud" HorizontalAlignment="Left" Margin="578,10,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Elephant"/>
+        </Grid>
+    </Grid>
+</Window>

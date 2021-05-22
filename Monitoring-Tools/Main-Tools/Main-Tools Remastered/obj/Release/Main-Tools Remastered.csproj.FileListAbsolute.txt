@@ -1,0 +1,20 @@
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\bin\Release\Main-Tools Remastered.exe.config
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\bin\Release\Main-Tools Remastered.exe
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\bin\Release\Main-Tools Remastered.pdb
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\bin\Release\Newtonsoft.Json.xml
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\MainWindow.g.cs
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\App.g.cs
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered_MarkupCompile.cache
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered_MarkupCompile.lref
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\App.baml
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\MainWindow.baml
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.g.resources
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main_Tools_Remastered.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.csproj.Fody.CopyLocal.cache
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.exe
+C:\Users\cntow\Documents\GitHub\Monitoring-Tools\Main-Tools\Main-Tools Remastered\obj\Release\Main-Tools Remastered.pdb

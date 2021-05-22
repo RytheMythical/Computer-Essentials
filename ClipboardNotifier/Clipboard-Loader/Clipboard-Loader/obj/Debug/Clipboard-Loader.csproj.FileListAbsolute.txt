@@ -1,0 +1,10 @@
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\bin\Debug\Clipboard-Loader.exe.config
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\bin\Debug\Clipboard-Loader.exe
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\bin\Debug\Clipboard-Loader.pdb
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\obj\Debug\Clipboard-Loader.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\obj\Debug\Clipboard_Loader.Form1.resources
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\obj\Debug\Clipboard_Loader.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\obj\Debug\Clipboard-Loader.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\obj\Debug\Clipboard-Loader.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\obj\Debug\Clipboard-Loader.exe
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\Clipboard-Loader\Clipboard-Loader\obj\Debug\Clipboard-Loader.pdb

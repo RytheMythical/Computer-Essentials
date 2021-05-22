@@ -1,0 +1,11 @@
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\bin\Debug\netstandard2.0\File Vault API.deps.json
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\bin\Debug\netstandard2.0\File Vault API.dll
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\bin\Debug\netstandard2.0\File Vault API.pdb
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File Vault API.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File Vault API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File Vault API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File Vault API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File Vault API.dll
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File Vault API.pdb
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File_Vault_API.Resources.resources
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\File Vault API\obj\Debug\netstandard2.0\File Vault API.csproj.GenerateResource.cache

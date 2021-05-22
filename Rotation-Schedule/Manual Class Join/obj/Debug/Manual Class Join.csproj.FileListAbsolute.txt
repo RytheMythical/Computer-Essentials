@@ -1,0 +1,10 @@
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\bin\Debug\Manual Class Join.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\bin\Debug\Manual Class Join.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\bin\Debug\Manual Class Join.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\obj\Debug\Manual Class Join.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\obj\Debug\Manual_Class_Join.Form1.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\obj\Debug\Manual_Class_Join.Properties.Resources.resources
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\obj\Debug\Manual Class Join.csproj.GenerateResource.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\obj\Debug\Manual Class Join.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\obj\Debug\Manual Class Join.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Manual Class Join\obj\Debug\Manual Class Join.pdb

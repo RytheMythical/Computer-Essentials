@@ -1,0 +1,29 @@
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Home Schedule.exe.config
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Home Schedule.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Home Schedule.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Adobe Manual Installation API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\APIs.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Base64 API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Coronavirus API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\File Vault API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\GitHUB API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\GitHub Database Downloader API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\GitHub-Large-Uploader API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\HTML Download API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Jackson Download Manager API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\ParseHub.Client.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\RestSharp.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\Teach Assist.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\UsefulTools.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\bin\Debug\WinRAR API.dll
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home Schedule.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home_Schedule.Properties.Resources.resources
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home Schedule.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home Schedule.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home Schedule.csproj.CopyComplete
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home Schedule.exe
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home Schedule.pdb
+C:\Users\cntow\Documents\GitLab\computer-essentials\Home Schedule\Home Schedule\obj\Debug\Home_Schedule.Form1.resources

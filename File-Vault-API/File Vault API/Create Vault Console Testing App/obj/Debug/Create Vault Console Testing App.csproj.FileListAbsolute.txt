@@ -1,0 +1,10 @@
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\bin\Debug\Create Vault Console Testing App.exe.config
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\bin\Debug\Create Vault Console Testing App.exe
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\bin\Debug\Create Vault Console Testing App.pdb
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\bin\Debug\File Vault API.dll
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\bin\Debug\File Vault API.pdb
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\obj\Debug\Create Vault Console Testing App.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\obj\Debug\Create Vault Console Testing App.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\obj\Debug\Create Vault Console Testing App.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\obj\Debug\Create Vault Console Testing App.exe
+C:\Users\cntow\Documents\GitHub\File-Vault-API\File Vault API\Create Vault Console Testing App\obj\Debug\Create Vault Console Testing App.pdb

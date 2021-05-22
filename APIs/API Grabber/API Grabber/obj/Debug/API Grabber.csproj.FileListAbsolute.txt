@@ -1,0 +1,10 @@
+C:\Users\HA\source\repos\API Grabber\API Grabber\bin\Debug\API Grabber.exe.config
+C:\Users\HA\source\repos\API Grabber\API Grabber\bin\Debug\API Grabber.exe
+C:\Users\HA\source\repos\API Grabber\API Grabber\bin\Debug\API Grabber.pdb
+C:\Users\HA\source\repos\API Grabber\API Grabber\obj\Debug\API Grabber.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\API Grabber\API Grabber\obj\Debug\API_Grabber.Form1.resources
+C:\Users\HA\source\repos\API Grabber\API Grabber\obj\Debug\API_Grabber.Properties.Resources.resources
+C:\Users\HA\source\repos\API Grabber\API Grabber\obj\Debug\API Grabber.csproj.GenerateResource.cache
+C:\Users\HA\source\repos\API Grabber\API Grabber\obj\Debug\API Grabber.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\API Grabber\API Grabber\obj\Debug\API Grabber.exe
+C:\Users\HA\source\repos\API Grabber\API Grabber\obj\Debug\API Grabber.pdb

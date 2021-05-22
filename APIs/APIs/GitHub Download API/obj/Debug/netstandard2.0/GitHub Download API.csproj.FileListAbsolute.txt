@@ -1,0 +1,9 @@
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\bin\Debug\netstandard2.0\GitHub Download API.deps.json
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\bin\Debug\netstandard2.0\GitHub Download API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\bin\Debug\netstandard2.0\GitHub Download API.pdb
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\obj\Debug\netstandard2.0\GitHub Download API.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\obj\Debug\netstandard2.0\GitHub Download API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\obj\Debug\netstandard2.0\GitHub Download API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\obj\Debug\netstandard2.0\GitHub Download API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\obj\Debug\netstandard2.0\GitHub Download API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHub Download API\obj\Debug\netstandard2.0\GitHub Download API.pdb

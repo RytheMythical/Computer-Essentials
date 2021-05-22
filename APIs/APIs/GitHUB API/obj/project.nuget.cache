@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kLqeekN6gW2rftqYbojGhh6STVMymc5jycsEFv3mMYVd1dSckZRmKE8Wzn8X+7U8CnUQGMziXCfAiIgr4K5z1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cntow\\Documents\\GitLab\\computer-essentials\\APIs\\APIs\\GitHUB API\\GitHUB API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cntow\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cntow\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

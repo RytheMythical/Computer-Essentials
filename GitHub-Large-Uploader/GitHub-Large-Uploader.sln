@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub-Large-Uploader", "GitHub-Large-Uploader\GitHub-Large-Uploader.csproj", "{B9BBA5E6-4D41-4DD8-AA83-E31DAEF73E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub-Large-Uploader API", "GitHub-Large-Uploader API\GitHub-Large-Uploader API.csproj", "{8D1A4F6D-C715-4D55-AE7E-7B6A5CBF4D73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BBA5E6-4D41-4DD8-AA83-E31DAEF73E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BBA5E6-4D41-4DD8-AA83-E31DAEF73E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BBA5E6-4D41-4DD8-AA83-E31DAEF73E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BBA5E6-4D41-4DD8-AA83-E31DAEF73E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1A4F6D-C715-4D55-AE7E-7B6A5CBF4D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1A4F6D-C715-4D55-AE7E-7B6A5CBF4D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1A4F6D-C715-4D55-AE7E-7B6A5CBF4D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1A4F6D-C715-4D55-AE7E-7B6A5CBF4D73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1275269-63B1-47DF-A9EF-1F7EBD4000E5}
+	EndGlobalSection
+EndGlobal

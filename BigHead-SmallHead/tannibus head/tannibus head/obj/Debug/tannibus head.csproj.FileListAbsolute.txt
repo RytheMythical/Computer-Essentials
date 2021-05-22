@@ -1,0 +1,13 @@
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\bin\Debug\tannibus head.exe.config
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\bin\Debug\tannibus head.exe
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\bin\Debug\tannibus head.pdb
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus head.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus_head.Form1.resources
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus_head.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus head.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus head.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus head.exe
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus head.pdb
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus head.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\BigHead-SmallHead\tannibus head\tannibus head\obj\Debug\tannibus head.csproj.Fody.CopyLocal.cache

@@ -1,0 +1,38 @@
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHUB API.deps.json
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHUB API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHUB API.pdb
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Base64 API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHub-Large-Uploader API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Jackson Download Manager API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\UsefulTools.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\WinRAR API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\WinRAR API.pdb
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.csprojAssemblyReference.cache
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.AssemblyInfoInputs.cache
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.AssemblyInfo.cs
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.csproj.CoreCompileInputs.cache
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.csproj.CopyComplete
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.dll
+C:\Users\HA\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.pdb
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHUB API.deps.json
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHUB API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHUB API.pdb
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Base64 API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\GitHub-Large-Uploader API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\HTML Download API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Jackson Download Manager API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\Ontario Coronavirus API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\UsefulTools.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\WinRAR API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\bin\Debug\netstandard2.0\WinRAR API.pdb
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.csproj.CopyComplete
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.dll
+C:\Users\cntow\Documents\GitHub\APIs\APIs\GitHUB API\obj\Debug\netstandard2.0\GitHUB API.pdb

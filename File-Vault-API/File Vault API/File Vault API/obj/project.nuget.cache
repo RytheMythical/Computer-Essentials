@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZUAx69OnpevjilN2f+o2VY2zr7w6OhWNFRy6gUau/cg43HPghNEAaVCcm0AqDa4gYBTZxJVf00AWLeymtoDkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cntow\\Documents\\GitHub\\File-Vault-API\\File Vault API\\File Vault API\\File Vault API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cntow\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cntow\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

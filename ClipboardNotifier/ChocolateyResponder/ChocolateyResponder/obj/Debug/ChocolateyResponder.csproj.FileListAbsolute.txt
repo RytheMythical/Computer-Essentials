@@ -1,0 +1,10 @@
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\obj\Debug\ChocolateyResponder.csprojAssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\obj\Debug\ChocolateyResponder.Form1.resources
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\obj\Debug\ChocolateyResponder.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\obj\Debug\ChocolateyResponder.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\obj\Debug\ChocolateyResponder.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\bin\Debug\ChocolateyResponder.exe.config
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\bin\Debug\ChocolateyResponder.exe
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\bin\Debug\ChocolateyResponder.pdb
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\obj\Debug\ChocolateyResponder.exe
+C:\Users\cntow\Documents\GitHub\ClipboardNotifier\ChocolateyResponder\ChocolateyResponder\obj\Debug\ChocolateyResponder.pdb

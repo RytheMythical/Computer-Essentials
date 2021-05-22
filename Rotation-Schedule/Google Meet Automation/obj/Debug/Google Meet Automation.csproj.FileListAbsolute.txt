@@ -1,0 +1,13 @@
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Google Meet Automation\bin\Debug\Google Meet Automation.exe.config
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Google Meet Automation\bin\Debug\Google Meet Automation.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Google Meet Automation\bin\Debug\Google Meet Automation.pdb
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Google Meet Automation\obj\Debug\Google Meet Automation.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Google Meet Automation\obj\Debug\Google Meet Automation.exe
+C:\Users\cntow\Documents\GitHub\Rotation-Schedule\Google Meet Automation\obj\Debug\Google Meet Automation.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Google Meet Automation\bin\Debug\Google Meet Automation.exe.config
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Google Meet Automation\bin\Debug\Google Meet Automation.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Google Meet Automation\bin\Debug\Google Meet Automation.pdb
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Google Meet Automation\obj\Debug\Google Meet Automation.csprojAssemblyReference.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Google Meet Automation\obj\Debug\Google Meet Automation.csproj.CoreCompileInputs.cache
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Google Meet Automation\obj\Debug\Google Meet Automation.exe
+C:\Users\BigHead\Documents\GitHub\computer-essentials\Rotation-Schedule\Google Meet Automation\obj\Debug\Google Meet Automation.pdb

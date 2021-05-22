@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "UsefulTools/1.0.0": {
+        "dependencies": {
+          "System.Runtime.WindowsRuntime": "4.7.0"
+        },
+        "runtime": {
+          "UsefulTools.dll": {}
+        }
+      },
+      "System.Runtime.WindowsRuntime/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.WindowsRuntime.dll": {
+            "assemblyVersion": "4.0.15.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsefulTools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.WindowsRuntime/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RQxUkf37fp7MSWbOfKRjUjyudyfZb2u79YY5i1s+d7vuD80A7kmr2YfefO0JprQUhanxSm8bhXigCVfX2kEh+w==",
+      "path": "system.runtime.windowsruntime/4.7.0",
+      "hashPath": "system.runtime.windowsruntime.4.7.0.nupkg.sha512"
+    }
+  }
+}

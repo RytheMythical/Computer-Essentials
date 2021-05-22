@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "etlVcgqrTm/kjY99+Yta1K73HRhaAn2pTVGEfVTd+9J5BF84f9pVV9lEAJOTYoLTb1x/uelcogbyY8Sjj0pvDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cntow\\Documents\\GitHub\\UsefulTools\\UsefulTools\\UsefulTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cntow\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cntow\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cntow\\.nuget\\packages\\system.runtime.windowsruntime\\4.7.0\\system.runtime.windowsruntime.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

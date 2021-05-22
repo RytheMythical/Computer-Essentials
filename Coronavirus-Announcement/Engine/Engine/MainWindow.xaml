@@ -1,0 +1,17 @@
+﻿<Window x:Class="Engine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Engine"
+        mc:Ignorable="d" Height="167" Width="931.33" Visibility="Visible" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None" AllowsTransparency="True">
+    <Window.Background>
+        <SolidColorBrush Color="White"/>
+    </Window.Background>
+    <Grid x:Name="MainGrid" Background="Black">
+        <Label x:Name="StatusLabel" Content="                Current Coronavirus (COVID-19) Cases" HorizontalAlignment="Left" Height="42" Margin="0,2,0,0" VerticalAlignment="Top" Width="931" FontSize="22" Foreground="#FF00C9C9" HorizontalContentAlignment="Center"/>
+        <Label x:Name="NumberLabel" Content="Placeholder" HorizontalAlignment="Center" Height="78" Margin="0,64,0,0" VerticalAlignment="Top" Width="931" FontSize="30" FontWeight="Bold" FontFamily="Arial" Foreground="White" HorizontalContentAlignment="Center"/>
+        <Label x:Name="BottomLabel" Content="Coronavirus stats provided by COVID Checker™                 Ctrl + H to hide the window" HorizontalAlignment="Left" Margin="0,135,0,0" VerticalAlignment="Top" FontSize="15" Width="931" Foreground="#FF00C9C9" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>

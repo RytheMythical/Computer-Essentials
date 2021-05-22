@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>GitHUB_API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Base64 API">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\Base64 API.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub-Large-Uploader API">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\GitHub-Large-Uploader API.dll</HintPath>
+    </Reference>
+    <Reference Include="HTML Download API">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\HTML Download API.dll</HintPath>
+    </Reference>
+    <Reference Include="Jackson Download Manager API">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\Jackson Download Manager API.dll</HintPath>
+    </Reference>
+    <Reference Include="Ontario Color Coded Restrictions API">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\Ontario Color Coded Restrictions API.dll</HintPath>
+    </Reference>
+    <Reference Include="Ontario Coronavirus API">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\Ontario Coronavirus API.dll</HintPath>
+    </Reference>
+    <Reference Include="UsefulTools">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\UsefulTools.dll</HintPath>
+    </Reference>
+    <Reference Include="WinRAR API">
+      <HintPath>..\WinRAR API\bin\Debug\netstandard2.0\WinRAR API.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

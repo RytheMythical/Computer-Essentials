@@ -1,0 +1,226 @@
+﻿string[] AudioFormats = { "mp3", "wav", "ogg", "wma", "mpc", "aac", "mp4", "alac", "flac", "ape", "amr" };
+                            foreach (string audioFormat in AudioFormats)
+                            {
+                                if (ClipboardText.Contains(":" + audioFormat) && !ClipboardText.Contains("youtube.com"))
+                                {
+                                    string ClipboardStuff = ClipboardText.Replace("\"", "");
+                                    ClipboardStuff = ClipboardStuff.Replace(":" + audioFormat, "").Replace("zip","");
+                                    if (File.Exists(ClipboardStuff))
+                                    {
+                                        await RunCommandHidden("\"C:\\Program Files (x86)\\Total Audio Converter\\AudioConverter.exe\" \"" + ClipboardStuff + "\" \"" + Path.GetDirectoryName(ClipboardStuff) + "\\" + Path.GetFileNameWithoutExtension(ClipboardStuff) + "." + audioFormat + "\" -c" + audioFormat.ToUpper());
+                                    }
+                                    if (Directory.Exists(ClipboardStuff))
+                                    {
+                                        DirectoryInfo d = new DirectoryInfo(ClipboardStuff);
+                                        foreach (var fileInfo in d.GetFiles())
+                                        {
+                                            if (!File.Exists(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt"))
+                                            {
+                                                File.WriteAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt", fileInfo.FullName);
+                                            }
+                                            else
+                                            {
+                                                File.WriteAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt", File.ReadAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt") + "\n" + fileInfo.FullName);
+                                            }
+                                        }
+
+                                        await RunCommandHidden(
+                                            "\"C:\\Program Files (x86)\\Total Audio Converter\\AudioConverter.exe\" -log \"%temp%\\AudioLog.txt\" -list \"" +
+                                            Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt" +
+                                            "\" \"" + ClipboardStuff + "\" -c" + audioFormat);
+                                        foreach (var fileInfo in d.GetFiles())
+                                        {
+                                            if (fileInfo.Name.Contains("." + audioFormat))
+                                            {
+
+                                            }
+                                            else
+                                            {
+                                                File.Delete(ClipboardStuff + "\\" + fileInfo.Name);
+                                            }
+                                        }
+                                        File.Delete(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt");
+
+                                    }
+                                    try
+                                    {
+                                        if (ClipboardText.Contains(":" + audioFormat + "zip"))
+                                        {
+                                            string TheDirectory = ClipboardText.Replace(":" + audioFormat + "zip", "");
+                                            string TempDirectory = Environment.GetEnvironmentVariable("TEMP") + "\\" + Path.GetRandomFileName().Replace(".","");
+                                            Console.WriteLine("TEMP DIRECTORY: " + TempDirectory);
+                                            Directory.CreateDirectory(TempDirectory);
+                                            DirectoryInfo DirectoryInfoThing = new DirectoryInfo(TheDirectory);
+                                            foreach (var file in DirectoryInfoThing.GetFiles())
+                                            {
+                                                file.MoveTo(TempDirectory + "\\" + file.Name);
+                                                ZipFile.CreateFromDirectory(TempDirectory, TheDirectory + "\\" + Path.GetFileNameWithoutExtension(file.FullName) + ".zip");
+                                                File.Delete(TempDirectory + "\\" + file.Name);
+                                            }
+                                        }
+                                    }
+                                    catch (Exception ex)
+                                    {
+                                        Console.WriteLine(ex);
+                                        throw;
+                                    }
+                                    Clipboard.SetText("Done");
+                                }
+
+
+                            }
+
+                            string[] ImageFormats =
+                                {"pdf", "tiff", "bmp", "png", "jpeg", "ico", "gif", "tga", "pxm", "ps", "pcl", "pptx","jpg"};
+                            foreach (string imageFormat in ImageFormats)
+                            {
+                                if (ClipboardText.Contains(":" + imageFormat))
+                                {
+                                    string ClipboardStuff = ClipboardText.Replace("\"", "");
+                                    ClipboardStuff = ClipboardStuff.Replace(":" + imageFormat, "");
+                                    if (File.Exists(ClipboardStuff))
+                                    {
+                                        await RunCommandHidden(
+                                            "\"C:\\Program Files (x86)\\CoolUtils\\Total Image Converter\\ImageConverter32.exe\" \"" +
+                                            ClipboardStuff + "\" \"" + Path.GetDirectoryName(ClipboardStuff) + "\\" +
+                                            Path.GetFileNameWithoutExtension(ClipboardStuff) + "." + imageFormat);
+                                    }
+
+                                    if (Directory.Exists(ClipboardStuff))
+                                    {
+                                        DirectoryInfo d = new DirectoryInfo(ClipboardStuff);
+                                        foreach (var fileInfo in d.GetFiles())
+                                        {
+                                            if (!File.Exists(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt"))
+                                            {
+                                                File.WriteAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt", fileInfo.FullName);
+                                            }
+                                            else
+                                            {
+                                                File.WriteAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt", File.ReadAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt") + "\n" + fileInfo.FullName);
+                                            }
+                                        }
+
+                                        await RunCommandHidden(
+                                            "\"C:\\Program Files (x86)\\CoolUtils\\Total Image Converter\\ImageConverter32.exe\" -log \"%temp%\\ImageLog.txt\" -list \"" +
+                                            Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt" +
+                                            "\" \"" + ClipboardStuff + "\" -c" + imageFormat);
+                                        foreach (var fileInfo in d.GetFiles())
+                                        {
+                                            if (fileInfo.Name.Contains("." + imageFormat))
+                                            {
+
+                                            }
+                                            else
+                                            {
+                                                File.Delete(ClipboardStuff + "\\" + fileInfo.Name);
+                                            }
+                                        }
+                                        File.Delete(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt");
+                                    }
+
+                                    try
+                                    {
+                                        if (ClipboardText.Contains(":" + imageFormat + "zip"))
+                                        {
+                                            string TheDirectory = ClipboardText.Replace(":" + imageFormat + "zip", "");
+                                            string TempDirectory = Environment.GetEnvironmentVariable("TEMP") + "\\" + Path.GetRandomFileName().Replace(".", "");
+                                            Console.WriteLine("TEMP DIRECTORY: " + TempDirectory);
+                                            Directory.CreateDirectory(TempDirectory);
+                                            DirectoryInfo DirectoryInfoThing = new DirectoryInfo(TheDirectory);
+                                            foreach (var file in DirectoryInfoThing.GetFiles())
+                                            {
+                                                file.MoveTo(TempDirectory + "\\" + file.Name);
+                                                ZipFile.CreateFromDirectory(TempDirectory, TheDirectory + "\\" + Path.GetFileNameWithoutExtension(file.FullName) + ".zip");
+                                                File.Delete(TempDirectory + "\\" + file.Name);
+                                            }
+                                        }
+                                    }
+                                    catch (Exception ex)
+                                    {
+                                        Console.WriteLine(ex);
+                                        throw;
+                                    }
+                                    Clipboard.SetText("Done");
+                                }
+                            }
+
+                            string[] PDFFormats =
+                            {
+                                    "pdf", "txt", "docx", "xls", "htm", "csv" /*"jpg", "bmp", "tif", "gif", "png"*/,
+                                    "emf",
+                                    "eps"
+                                };
+                            foreach (string imageFormat in PDFFormats)
+                            {
+                                if (ClipboardText.Contains(":" + imageFormat))
+                                {
+                                    string ClipboardStuff = ClipboardText.Replace("\"", "");
+                                    ClipboardStuff = ClipboardStuff.Replace(":" + imageFormat, "");
+                                    if (File.Exists(ClipboardStuff))
+                                    {
+                                        await RunCommandHidden(
+                                            "\"C:\\Program Files (x86)\\CoolUtils\\Total PDF Converter\\PDFConverter.exe\" \"" +
+                                            ClipboardStuff + "\" \"" + Path.GetDirectoryName(ClipboardStuff) + "\\" +
+                                            Path.GetFileNameWithoutExtension(ClipboardStuff) + "." + imageFormat);
+                                    }
+
+                                    if (Directory.Exists(ClipboardStuff))
+                                    {
+                                        DirectoryInfo d = new DirectoryInfo(ClipboardStuff);
+                                        foreach (var fileInfo in d.GetFiles())
+                                        {
+                                            if (!File.Exists(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt"))
+                                            {
+                                                File.WriteAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt", fileInfo.FullName);
+                                            }
+                                            else
+                                            {
+                                                File.WriteAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt", File.ReadAllText(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt") + "\n" + fileInfo.FullName);
+                                            }
+                                        }
+
+                                        await RunCommandHidden(
+                                            "\"C:\\Program Files (x86)\\CoolUtils\\Total PDF Converter\\PDFConverter.exe\" -log \"%temp%\\ImageLog.txt\" -list \"" +
+                                            Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt" +
+                                            "\" \"" + ClipboardStuff + "\" -c" + imageFormat);
+                                        foreach (var fileInfo in d.GetFiles())
+                                        {
+                                            if (fileInfo.Name.Contains("." + imageFormat))
+                                            {
+
+                                            }
+                                            else
+                                            {
+                                                File.Delete(ClipboardStuff + "\\" + fileInfo.Name);
+                                            }
+                                        }
+                                        File.Delete(Environment.GetEnvironmentVariable("TEMP") + "\\ImageConvert.txt");
+                                    }
+
+                                    try
+                                    {
+                                        if (ClipboardText.Contains(":" + imageFormat + "zip"))
+                                        {
+                                            string TheDirectory = ClipboardText.Replace(":" + imageFormat + "zip", "");
+                                            string TempDirectory = Environment.GetEnvironmentVariable("TEMP") + "\\" + Path.GetRandomFileName().Replace(".", "");
+                                            Console.WriteLine("TEMP DIRECTORY: " + TempDirectory);
+                                            Directory.CreateDirectory(TempDirectory);
+                                            DirectoryInfo DirectoryInfoThing = new DirectoryInfo(TheDirectory);
+                                            foreach (var file in DirectoryInfoThing.GetFiles())
+                                            {
+                                                file.MoveTo(TempDirectory + "\\" + file.Name);
+                                                ZipFile.CreateFromDirectory(TempDirectory, TheDirectory + "\\" + Path.GetFileNameWithoutExtension(file.FullName) + ".zip");
+                                                File.Delete(TempDirectory + "\\" + file.Name);
+                                            }
+                                        }
+                                    }
+                                    catch (Exception ex)
+                                    {
+                                        Console.WriteLine(ex);
+                                        throw;
+                                    }
+                                    Clipboard.SetText("Done");
+
+                                }
+                            }

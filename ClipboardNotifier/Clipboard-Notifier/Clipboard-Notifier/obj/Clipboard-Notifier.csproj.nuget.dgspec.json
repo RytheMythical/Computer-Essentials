@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BigHead\\Documents\\GitHub\\computer-essentials\\ClipboardNotifier\\Clipboard-Notifier\\Clipboard-Notifier\\Clipboard-Notifier.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BigHead\\Documents\\GitHub\\computer-essentials\\ClipboardNotifier\\Clipboard-Notifier\\Clipboard-Notifier\\Clipboard-Notifier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BigHead\\Documents\\GitHub\\computer-essentials\\ClipboardNotifier\\Clipboard-Notifier\\Clipboard-Notifier\\Clipboard-Notifier.csproj",
+        "projectName": "Clipboard-Notifier",
+        "projectPath": "C:\\Users\\BigHead\\Documents\\GitHub\\computer-essentials\\ClipboardNotifier\\Clipboard-Notifier\\Clipboard-Notifier\\Clipboard-Notifier.csproj",
+        "packagesPath": "C:\\Users\\BigHead\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BigHead\\Documents\\GitHub\\computer-essentials\\ClipboardNotifier\\Clipboard-Notifier\\Clipboard-Notifier\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BigHead\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Costura.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.Azure.Mobile.Server.Entity": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.17763.1000, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.Runtime.WindowsRuntime": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Runtime.WindowsRuntime.UI.Xaml": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "TeachAssistAPI": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Xabe.FFmpeg": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "uap10.0.17763"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
